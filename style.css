@@ -48,14 +48,3 @@ body {
   color: black;
   font-size: 60px;
 }
-
-@media (max-width: 450px) {
-  .clock {
-    width: 300px;
-    height: 115px;
-  }
-
-  #time {
-    font-size: 45px;
-  }
-}

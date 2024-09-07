@@ -1,0 +1,10 @@
+@media screen and (320px <= width <= 480px) {
+  .clock {
+    width: 300px;
+    height: 115px;
+  }
+
+  #time {
+    font-size: 45px;
+  }
+}

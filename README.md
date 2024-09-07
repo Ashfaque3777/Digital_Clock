@@ -41,7 +41,7 @@ This project is a simple yet functional **Digital Clock** built using HTML, CSS,
 
 ## Live Demo
 
-You can view the live demo of the project [here](#). _(Add the Netlify link once deployed)_
+You can view the live demo of the project [here](https://digital-clock-197786.netlify.app).
 
 ## License
 

@@ -43,6 +43,41 @@ This project is a simple yet functional **Digital Clock** built using HTML, CSS,
 
 You can view the live demo of the project [here](https://digital-clock-197786.netlify.app).
 
+## Contributing
+
+Contributions are welcome! If you’d like to contribute to the **Digital Clock** project, please follow these steps:
+
+1. **Fork the Repository**: Click the “Fork” button at the top right of this page to create a copy of the repository under your GitHub account.
+2. **Clone Your Fork**:
+
+   ```bash
+   git clone https://github.com/your-username/digital-clock.git
+   ```
+
+3. **Create a New Branch**:
+
+   ```bash
+   git checkout -b feature-branch
+   ```
+
+4. **Make Your Changes**: Edit or add files as needed.
+5. **Commit Your Changes**:
+
+   ```bash
+   git add .
+   git commit -m "Description of your changes"
+   ```
+
+6. **Push to Your Fork**:
+
+   ```bash
+   git push origin feature-branch
+   ```
+
+7. **Create a Pull Request**: Go to the original repository and create a pull request from your forked repository.
+
+Thank you for contributing!
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.

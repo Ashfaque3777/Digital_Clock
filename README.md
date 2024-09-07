@@ -20,13 +20,13 @@ This project is a simple yet functional **Digital Clock** built using HTML, CSS,
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/digital-clock.git
+   git clone https://github.com/Ashfaque3777/Digital_Clock.git
    ```
 
 2. **Navigate into the Project Directory**:
 
    ```bash
-   cd digital-clock
+   cd Digital_Clock
    ```
 
 3. **Open `index.html`** in your preferred web browser:
@@ -43,6 +43,16 @@ This project is a simple yet functional **Digital Clock** built using HTML, CSS,
 
 You can view the live demo of the project [here](https://digital-clock-197786.netlify.app).
 
+## Future Enhancements
+
+Here are some ideas for future improvements:
+
+- **24-Hour Format Option**: Add a toggle to switch between 12-hour and 24-hour formats.
+- **Date Display**: Include the current date along with the time.
+- **Alarms**: Add functionality to set alarms or reminders.
+- **Sound Effects**: Play a sound when an alarm goes off or for each hour.
+- **Custom Themes**: Allow users to choose from multiple themes beyond dark and light mode.
+
 ## Contributing
 
 Contributions are welcome! If you’d like to contribute to the **Digital Clock** project, please follow these steps:
@@ -51,7 +61,7 @@ Contributions are welcome! If you’d like to contribute to the **Digital Clock*
 2. **Clone Your Fork**:
 
    ```bash
-   git clone https://github.com/your-username/digital-clock.git
+   git clone https://github.com/Ashfaque3777/Digital_Clock.git
    ```
 
 3. **Create a New Branch**:
